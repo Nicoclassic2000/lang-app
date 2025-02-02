@@ -1,0 +1,28 @@
+/app
+  /models
+    - quiz.ts
+    - word.ts
+  /view-models
+    - home-view-model.ts
+    - learn-view-model.ts
+    - quiz-view-model.ts
+  /views
+    /home
+      - home-page.ts
+      - home-page.xml
+    /learn
+      - learn-page.ts
+      - learn-page.xml
+    /quiz
+      - quiz-page.ts
+      - quiz-page.xml
+      - result-page.ts
+      - result-page.xml
+  - app.ts
+  - app.css
+  - app-root.xml
+- nativescript.config.ts
+- package.json
+- tailwind.config.js
+- tsconfig.json
+- webpack.config.js
